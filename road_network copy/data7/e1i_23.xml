@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-01-02 10:32:54 by Eclipse SUMO GUI Version 1.14.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="data3/quickstart.net.xml"/>
+        <route-files value="data3/quickstart.rou.xml"/>
+        <additional-files value="data3/additional_elem.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <traci_server>
+        <remote-port value="57358"/>
+    </traci_server>
+
+</configuration>
+-->
+
+<instantE1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/instant_e1_file.xsd">
+    <instantOut id="e1i_23" time="52.41" state="enter" vehID="veh1" speed="14.22" length="5.00" type="CarA"/>
+    <instantOut id="e1i_23" time="52.76" state="leave" vehID="veh1" speed="14.22" length="5.00" type="CarA" occupancy="0.35"/>
+</instantE1>

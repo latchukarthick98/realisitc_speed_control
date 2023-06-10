@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-06-02 16:25:15 by Eclipse SUMO GUI Version 1.14.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="road_network/data3/quickstart.net.xml"/>
+        <route-files value="road_network/data3/route.xml"/>
+        <additional-files value="road_network/data3/e1_detector.det.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+        <step-length value="0.1"/>
+    </time>
+
+    <processing>
+        <collision.stoptime value="0.1"/>
+        <time-to-teleport value="-1"/>
+        <default.action-step-length value="0.1"/>
+    </processing>
+
+    <traci_server>
+        <remote-port value="54371"/>
+    </traci_server>
+
+</configuration>
+-->
+
+<SSMLog>
+    <globalMeasures ego="veh2">
+        <timeSpan values=""/>
+        <BRSpan values=""/>
+        <SGAPSpan values=""/>
+        <TGAPSpan values=""/>
+    </globalMeasures>
+</SSMLog>

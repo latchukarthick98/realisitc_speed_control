@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-05-31 22:04:56 by Eclipse SUMO netedit Version 1.14.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <output>
+        <output-file value="/Users/lakshman/Lakshman/Projects/thesis/sumo/Exp5/road_network/data7/test.net.xml"/>
+    </output>
+
+    <processing>
+        <offset.disable-normalization value="true"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+    </junctions>
+
+</configuration>
+-->
+
+<net version="1.9" junctionCornerDetail="5" limitTurnSpeed="5.50" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="-150.00,-150.00,181.37,150.00" origBoundary="10000000000.00,10000000000.00,-10000000000.00,-10000000000.00" projParameter="!"/>
+
+    <edge id="E1" from="J2" to="J3" priority="-1" shape="173.60,65.77 150.00,0.00 148.15,23.47 142.66,46.35 133.65,68.10 121.35,88.17 106.07,106.07 88.17,121.35 68.10,133.65 46.35,142.66 23.47,148.15 0.00,150.00 -23.47,148.15 -46.35,142.66 -68.10,133.65 -88.17,121.35 -106.07,106.07 -121.35,88.17 -133.65,68.10 -142.66,46.35 -148.15,23.47 -150.00,0.00 -148.15,-23.47 -142.66,-46.35 -133.65,-68.10 -121.35,-88.17 -106.07,-106.07 -88.17,-121.35 -68.10,-133.65 -46.35,-142.66 -23.47,-148.15 -0.00,-150.00 23.47,-148.15 46.35,-142.66 68.10,-133.65 88.17,-121.35 106.07,-106.07 121.35,-88.17 133.65,-68.10 142.66,-46.35 148.15,-23.47 181.37,64.98">
+        <lane id="E1_0" index="0" speed="13.89" length="1076.80" shape="172.09,66.31 151.01,7.55 149.74,23.72 144.19,46.85 135.08,68.83 122.65,89.11 107.20,107.20 89.11,122.65 68.83,135.08 46.85,144.19 23.72,149.74 -0.00,151.60 -23.72,149.74 -46.85,144.19 -68.83,135.08 -89.11,122.65 -107.20,107.20 -122.65,89.11 -135.08,68.83 -144.19,46.85 -149.74,23.72 -151.60,-0.00 -149.74,-23.72 -144.19,-46.85 -135.08,-68.83 -122.65,-89.11 -107.20,-107.20 -89.11,-122.65 -68.83,-135.08 -46.85,-144.19 -23.72,-149.74 0.00,-151.60 23.72,-149.74 46.85,-144.19 68.83,-135.08 89.11,-122.65 107.20,-107.20 122.65,-89.11 135.08,-68.83 144.19,-46.85 149.68,-23.94 182.87,64.42"/>
+    </edge>
+
+    <junction id="J2" type="dead_end" x="173.60" y="65.77" incLanes="" intLanes="" shape="173.60,65.77 170.59,66.85"/>
+    <junction id="J3" type="dead_end" x="181.37" y="64.98" incLanes="E1_0" intLanes="" shape="184.37,63.85 181.37,64.98"/>
+
+</net>

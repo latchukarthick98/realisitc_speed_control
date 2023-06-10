@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-05-31 19:04:51 by Eclipse SUMO GUI Version 1.14.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="road_network/data7/quickstart.net.xml"/>
+        <route-files value="road_network/data7/route.xml"/>
+        <additional-files value="road_network/data7/e1_detector.det.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+        <step-length value="0.1"/>
+    </time>
+
+    <processing>
+        <collision.stoptime value="0.1"/>
+        <time-to-teleport value="-1"/>
+        <default.action-step-length value="0.1"/>
+    </processing>
+
+    <traci_server>
+        <remote-port value="57413"/>
+    </traci_server>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="0.00" end="300.00" id="e1_14" nVehContrib="47" flow="564.00" occupancy="3.62" speed="21.78" harmonicMeanSpeed="21.62" length="5.00" nVehEntered="47"/>
+    <interval begin="300.00" end="600.00" id="e1_14" nVehContrib="78" flow="936.00" occupancy="5.97" speed="21.96" harmonicMeanSpeed="21.76" length="5.00" nVehEntered="78"/>
+    <interval begin="600.00" end="900.00" id="e1_14" nVehContrib="60" flow="720.00" occupancy="4.63" speed="21.78" harmonicMeanSpeed="21.59" length="5.00" nVehEntered="60"/>
+    <interval begin="900.00" end="1090.30" id="e1_14" nVehContrib="41" flow="775.62" occupancy="5.07" speed="21.90" harmonicMeanSpeed="21.69" length="5.00" nVehEntered="42"/>
+</detector>

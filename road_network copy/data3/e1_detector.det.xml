@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-01-02 10:40:35 by Eclipse SUMO netedit Version 1.14.1
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <e1Detector id="e1_0" lane="-E1_0" pos="36.31" period="300.00" file="e1_0.xml"/>
+    <e1Detector id="e1_1" lane="-E1_0" pos="248.94" period="300.00" file="e1_1.xml"/>
+    <e1Detector id="e1_10" lane="E11_0" pos="94.78" period="300.00" file="e1_10.xml"/>
+    <e1Detector id="e1_11" lane="E11_0" pos="181.14" period="300.00" file="e1_11.xml"/>
+    <e1Detector id="e1_12" lane="E11_0" pos="291.24" period="300.00" file="e1_12.xml" friendlyPos="1"/>
+    <e1Detector id="e1_13" lane="E12_0" pos="7.77" period="300.00" file="e1_13.xml"/>
+    <e1Detector id="e1_14" lane="E12_0" pos="104.20" period="300.00" file="e1_14.xml"/>
+    <e1Detector id="e1_15" lane="E12_0" pos="206.22" period="300.00" file="e1_15.xml"/>
+    <e1Detector id="e1_16" lane="E12_0" pos="291.87" period="300.00" file="e1_16.xml" friendlyPos="1"/>
+    <e1Detector id="e1_17" lane="E4_0" pos="12.87" period="300.00" file="e1_17.xml"/>
+    <e1Detector id="e1_18" lane="E4_0" pos="117.98" period="300.00" file="e1_18.xml"/>
+    <e1Detector id="e1_19" lane="E4_0" pos="269.75" period="300.00" file="e1_19.xml"/>
+    <e1Detector id="e1_2" lane="-E1_0" pos="423.80" period="300.00" file="e1_2.xml"/>
+    <e1Detector id="e1_20" lane="E4_0" pos="393.20" period="300.00" file="e1_20.xml" friendlyPos="1"/>
+    <e1Detector id="e1_21" lane="E9_0" pos="5.81" period="300.00" file="e1_21.xml"/>
+    <e1Detector id="e1_22" lane="E9_0" pos="88.44" period="300.00" file="e1_22.xml"/>
+    <e1Detector id="e1_23" lane="E9_0" pos="227.60" period="300.00" file="e1_23.xml"/>
+    <e1Detector id="e1_24" lane="E9_0" pos="293.89" period="300.00" file="e1_24.xml" friendlyPos="1"/>
+    <e1Detector id="e1_3" lane="-E1_0" pos="493.39" period="300.00" file="e1_3.xml" friendlyPos="1"/>
+    <e1Detector id="e1_4" lane="-E0_0" pos="6.69" period="300.00" file="e1_4.xml"/>
+    <e1Detector id="e1_5" lane="-E0_0" pos="95.42" period="300.00" file="e1_5.xml"/>
+    <e1Detector id="e1_6" lane="-E0_0" pos="238.88" period="300.00" file="e1_6.xml"/>
+    <e1Detector id="e1_7" lane="-E0_0" pos="366.42" period="300.00" file="e1_7.xml"/>
+    <e1Detector id="e1_8" lane="-E0_0" pos="393.77" period="300.00" file="e1_8.xml" friendlyPos="1"/>
+    <e1Detector id="e1_9" lane="E11_0" pos="7.71" period="300.00" file="e1_9.xml"/>
+</additional>

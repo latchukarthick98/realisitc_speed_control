@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-10-17 18:17:05 by Eclipse SUMO netedit Version 1.14.1
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    
+    <vType id="t_0"/>
+    <!-- <vType speedFactor="normc(1,0.1,0.2,2)" id="CarA" length="5.0" minGap="2.5" maxSpeed="1000.0" sigma="0.5" /> -->
+    <vType accel="2.0" speedFactor="1.2" decel="6.0" id="CarA" length="5.0" minGap="2.5" maxSpeed="55.5" sigma="0.5" vClass="passenger" guiShape="passenger/sedan"/>
+
+    <vType accel="2.0" decel="6.0" id="CarB" length="7.5" minGap="2.5" maxSpeed="50.0" sigma="0.5" />
+    <vType accel="1.0" decel="5.0" id="CarC" length="5.0" minGap="2.5" maxSpeed="40.0" sigma="0.5" />
+    <vType accel="1.0" decel="5.0" id="CarD" length="7.5" minGap="2.5" maxSpeed="30.0" sigma="0.5" />
+    <!-- Routes -->
+    <route id="route_2" edges="-E3 E8 E9"/>
+    <route id="route_3" edges="-E1 -E0 E11 E12 E4 E9"/>
+    <route id="route_4" edges="-E0 E11 E2 -E7 -E0 -E10"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <!-- <vehicle id="v_0" type="t_0" depart="0.00" route="route_3"/> -->
+
+    <vehicle depart="0" id="veh1" route="route_3" type="CarA" color="1,0,0" /> 
+    <!-- <flow id="type2" color="1,1,0"  begin="0" end="3000" period="100" type="CarA" route="route_3" number="100">
+    </flow> -->
+    <!-- <vehicle depart="3" id="veh0" route="route_3" type="CarA" color="1,0,1" />  -->
+    
+    <vehicle depart="10" id="veh2" route="route_3" type="CarA" color="1,0,0" /> 
+    <vehicle depart="14" id="veh3" route="route_2" type="CarB" color="0,1,0" /> 
+
+    
+</routes>
+
+

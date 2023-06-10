@@ -1,0 +1,5 @@
+
+<edges>
+    <edge id="e1" from="n1" to="n2" shape="150.00,0.00 -150.00,0.00"/>
+    <edge id="e2" from="n2" to="n1"/>
+</edges>

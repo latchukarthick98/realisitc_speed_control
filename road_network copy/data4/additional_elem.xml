@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-01-01 22:36:31 by Eclipse SUMO netedit Version 1.14.1
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <instantInductionLoop id="e1i_0" lane="-E1_0" pos="70.91" file="e1i_0.xml"/>
+    <instantInductionLoop id="e1i_1" lane="-E1_0" pos="165.99" file="e1i_1.xml"/>
+    <instantInductionLoop id="e1i_10" lane="E7_0" pos="293.39" file="e1i_10.xml" friendlyPos="1"/>
+    <instantInductionLoop id="e1i_11" lane="E8_0" pos="7.11" file="e1i_11.xml"/>
+    <instantInductionLoop id="e1i_12" lane="E8_0" pos="91.89" file="e1i_12.xml"/>
+    <instantInductionLoop id="e1i_13" lane="E8_0" pos="164.76" file="e1i_13.xml"/>
+    <instantInductionLoop id="e1i_14" lane="E8_0" pos="253.55" file="e1i_14.xml"/>
+    <instantInductionLoop id="e1i_15" lane="E8_0" pos="294.06" file="e1i_15.xml" friendlyPos="1"/>
+    <instantInductionLoop id="e1i_16" lane="E9_0" pos="17.32" file="e1i_16.xml"/>
+    <instantInductionLoop id="e1i_17" lane="E9_0" pos="82.40" file="e1i_17.xml"/>
+    <instantInductionLoop id="e1i_18" lane="E9_0" pos="133.09" file="e1i_18.xml"/>
+    <instantInductionLoop id="e1i_19" lane="E9_0" pos="229.44" file="e1i_19.xml"/>
+    <instantInductionLoop id="e1i_2" lane="-E1_0" pos="312.89" file="e1i_2.xml"/>
+    <instantInductionLoop id="e1i_20" lane="E9_0" pos="284.68" file="e1i_20.xml"/>
+    <instantInductionLoop id="e1i_21" lane="-E0_0" pos="13.83" file="e1i_21.xml"/>
+    <instantInductionLoop id="e1i_22" lane="-E0_0" pos="103.84" file="e1i_22.xml"/>
+    <instantInductionLoop id="e1i_23" lane="-E0_0" pos="184.13" file="e1i_23.xml"/>
+    <instantInductionLoop id="e1i_24" lane="-E0_0" pos="278.09" file="e1i_24.xml"/>
+    <instantInductionLoop id="e1i_25" lane="-E0_0" pos="358.37" file="e1i_25.xml"/>
+    <instantInductionLoop id="e1i_26" lane="-E0_0" pos="394.82" file="e1i_26.xml" friendlyPos="1"/>
+    <instantInductionLoop id="e1i_27" lane="E11_0" pos="11.33" file="e1i_27.xml"/>
+    <instantInductionLoop id="e1i_28" lane="E11_0" pos="120.14" file="e1i_28.xml"/>
+    <instantInductionLoop id="e1i_29" lane="E11_0" pos="210.81" file="e1i_29.xml"/>
+    <instantInductionLoop id="e1i_3" lane="-E1_0" pos="445.43" file="e1i_3.xml"/>
+    <instantInductionLoop id="e1i_30" lane="E11_0" pos="292.32" file="e1i_30.xml" friendlyPos="1"/>
+    <instantInductionLoop id="e1i_31" lane="E12_0" pos="14.18" file="e1i_31.xml"/>
+    <instantInductionLoop id="e1i_32" lane="E12_0" pos="77.93" file="e1i_32.xml"/>
+    <instantInductionLoop id="e1i_33" lane="E12_0" pos="172.63" file="e1i_33.xml"/>
+    <instantInductionLoop id="e1i_34" lane="E12_0" pos="252.65" file="e1i_34.xml"/>
+    <instantInductionLoop id="e1i_35" lane="E12_0" pos="291.86" file="e1i_35.xml" friendlyPos="1"/>
+    <instantInductionLoop id="e1i_36" lane="E4_0" pos="8.07" file="e1i_36.xml"/>
+    <instantInductionLoop id="e1i_37" lane="E4_0" pos="61.26" file="e1i_37.xml"/>
+    <instantInductionLoop id="e1i_38" lane="E4_0" pos="115.18" file="e1i_38.xml"/>
+    <instantInductionLoop id="e1i_39" lane="E4_0" pos="220.03" file="e1i_39.xml"/>
+    <instantInductionLoop id="e1i_4" lane="-E1_0" pos="492.20" file="e1i_4.xml"/>
+    <instantInductionLoop id="e1i_40" lane="E4_0" pos="311.94" file="e1i_40.xml"/>
+    <instantInductionLoop id="e1i_41" lane="E4_0" pos="365.51" file="e1i_41.xml"/>
+    <instantInductionLoop id="e1i_42" lane="E4_0" pos="392.55" file="e1i_42.xml" friendlyPos="1"/>
+    <instantInductionLoop id="e1i_5" lane="E7_0" pos="9.16" file="e1i_5.xml"/>
+    <instantInductionLoop id="e1i_6" lane="E7_0" pos="75.95" file="e1i_6.xml"/>
+    <instantInductionLoop id="e1i_7" lane="E7_0" pos="131.60" file="e1i_7.xml"/>
+    <instantInductionLoop id="e1i_8" lane="E7_0" pos="198.26" file="e1i_8.xml"/>
+    <instantInductionLoop id="e1i_9" lane="E7_0" pos="257.80" file="e1i_9.xml"/>
+</additional>
