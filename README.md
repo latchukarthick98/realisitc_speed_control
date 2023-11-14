@@ -26,6 +26,11 @@ This repository contains an environment for simulating road networks using [SUMO
   pip install -r requirements.txt
   ```
 
+- Create conda environment using:
+    ```bash
+    conda env create -f environment.yml
+    ```
+
 ### Usage
 
 1. Clone the repository:
